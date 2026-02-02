@@ -129,6 +129,10 @@ Get today's NASA picture of the day
 Get the NASA picture from 2026-01-31
 ```
 
+**Example Result:**
+- **Title:** Artemis I: Flight Day 13
+- **URL:** https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg
+
 ### Get Current Date
 ```
 What's today's date?
